@@ -1,6 +1,11 @@
 # View-only Google Drive PDFs - A Small Study
 
-Disclaimer: this isn't meant to encourage copyright infringement but is only there for people who intend to archive and track important documents in case any unnoticed changes happen to them.\
+> [!NOTE]
+> The effort to reveal the inner workings of interactions with read-only files have moved to their own folder.
+
+> [!WARNING]
+> This isn't meant to encourage copyright infringement but is only there for people who intend to archive and track important documents in case any unnoticed changes happen to them.
+
 To address such a problem, we need to take a closer look at how Google Drive stores and displays PDFs that are limited by their owners to be view-only.\
 \
 *There are 2 ways Google Drive stores or displays these files.*\
