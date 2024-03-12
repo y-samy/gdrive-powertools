@@ -1,3 +1,4 @@
+/* https://gist.github.com/edoan/181094b112b848404dd814d44b71369c */
 function copiesRenamer() {
   var folders = DriveApp.getFoldersByName('B');
   var folder = folders.next();
